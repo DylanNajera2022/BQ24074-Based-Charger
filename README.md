@@ -3,4 +3,5 @@ I wanted a lithium battery charging module, but I felt that simply buying one wo
 <img width="1004" height="444" alt="Captura de pantalla 2026-02-25 004203" src="https://github.com/user-attachments/assets/bee3a399-461d-4d2f-8e3e-8a4fdacf66e6" />
 <img width="560" height="694" alt="Captura de pantalla 2026-02-25 013712" src="https://github.com/user-attachments/assets/675df6b8-8ab2-48a8-ab3f-308cdfeb70e3" />
 <img width="294" height="594" alt="image" src="https://github.com/user-attachments/assets/28e1213f-77e9-4085-9571-62f342fd2554" />
+
 My goal with this module was to make it as compact as possible. I wanted to make a PCB with components on both sides, but that would have increased the cost too much to have it made with JLCPB. I would like to solder it myself, but the problem is that to solder the chip I would need a heat gun or a hot plate, neither of which I have. So I ended up with this, which is the simplest option.
